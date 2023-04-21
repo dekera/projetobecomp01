@@ -101,14 +101,13 @@ header
 }
 .lojinha 
 {
-    padding-top: 25px;
+    padding-top: 35px;
     width: 375px;
     display: flex;
     flex-direction: column;
     text-align: justify;
     font-size:20px;
     font-weight: 400;
-    width: 375px;
 }
 .eventos
 {
@@ -119,7 +118,6 @@ header
     text-align: justify;
     font-size:20px;
     font-weight: 400;
-    width: 375px;
 }
 .parcerias
 {
@@ -130,7 +128,6 @@ header
     text-align: justify;
     font-size:20px;
     font-weight: 400;
-    width: 375px;
 }
 .main img
 {

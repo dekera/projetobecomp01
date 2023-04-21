@@ -126,52 +126,33 @@ header
     text-align: center;  
 }
 }
-.sub
+.conteudo img
+{
+    max-width: 551px;
+    max-height: 337px;
+    margin-top: 45px
+}
+.papirozero
 {
     margin-top: 25px;
     color: white;
     width: 800px;
     height: 400px;
 }
-.img1
-{
-    margin-top: 45px;
-}
-
-.title1
-{
-    font-size: 45px;
-}
-.divisorias p1{font-size: 35px;}
-.vikings
+.divisorias p1 {font-size: 35px;}
+.divisorias h1 {font-size: 45px;}
+.luau
 {
     margin-top: 25px;
     color:black;
     width: 800px;
     height: 400px;
 }
-.img2
-{
-    margin-top: 45px;
-}
 
-.title2
-{
-    font-size: 45px;
-}
-.tia
+.imejam
 {
     margin-top: 25px;
     color: white;
     width: 800px;
     height: 400px;
-}
-.img3
-{
-    margin-top: 45px;
-}
-
-.title3
-{
-    font-size: 45px;
 }
