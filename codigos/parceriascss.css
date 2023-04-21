@@ -1,0 +1,162 @@
+body
+{
+    margin:0px;
+    background-color:#8F0B0B;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+header
+{
+    display:flex;
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+    text-align:center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+@media (min-width:1050px)
+{
+.header
+{
+    background: #000000;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+#espaco{width: 200px;}
+#img-inst
+{
+    padding-right: 110px; 
+}
+}
+@media (max-width:1049px)
+{
+.header
+{
+    background: #000000;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+#espaco{width: 0%;}
+#img-inst
+{
+    padding-right: 10px; 
+}
+}
+.header p
+{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    color: white;
+}
+@media (min-width:1200px)
+{
+.container1
+{
+    width: 100%;
+    margin-top: 155px;
+    display: flex;
+    color: #8F0B0B;
+    justify-content: space-around;
+    text-align: justify;
+}
+.container2
+{
+    width: 100%;
+    display: flex;
+    background-color: white;
+    justify-content: space-around;
+    text-align: justify;
+  
+}
+.container3
+{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    background-color: #8F0B0B;
+    text-align: justify;
+}
+}
+@media (max-width:1199px)
+{
+.divisorias
+{
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+}
+.container1
+{
+    width: 100%;
+    margin-top: 155px;
+    display: flex;
+    flex-direction: column;
+    color: #8F0B0B;
+}
+.container2
+{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+}
+.container3
+{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: #8F0B0B;
+}
+}
+.sub
+{
+    margin-top: 25px;
+    color: white;
+    width: 800px;
+    height: 400px;
+}
+.img1
+{
+    margin-top: 45px;
+}
+
+.title1
+{
+    font-size: 45px;
+}
+.divisorias p1{font-size: 35px;}
+.vikings
+{
+    margin-top: 25px;
+    color:black;
+    width: 800px;
+    height: 400px;
+}
+.img2
+{
+    margin-top: 45px;
+}
+
+.title2
+{
+    font-size: 45px;
+}
+.tia
+{
+    margin-top: 25px;
+    color: white;
+    width: 800px;
+    height: 400px;
+}
+.img3
+{
+    margin-top: 45px;
+}
+
+.title3
+{
+    font-size: 45px;
+}
