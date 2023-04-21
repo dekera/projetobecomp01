@@ -12,7 +12,6 @@ header
     left:0;
     width:100%;
     text-align:center;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 @media (min-width:1050px)
 {
@@ -50,6 +49,13 @@ header
     font-weight: 400;
     font-size: 30px;
     color: white;
+}
+.header p:hover
+{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    color: #8F0B0B;
 }
 @media (min-width:1200px)
 {

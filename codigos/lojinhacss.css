@@ -50,6 +50,13 @@ header
     font-size: 30px;
     color: white;
 }
+.header p:hover
+{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    color: #8F0B0B;
+}
 .container
 {
     /* DESCUBRA NOSSA SELEÇÃO DE PRODUTOS */
